@@ -4,4 +4,4 @@
 *.bat linguist-detectable=false
 *.sh linguist-detectable=false
 *.ps1 linguist-detectable=fals
-*.* linguist-language=Yaml
+*.* linguist-language=Terraform
