@@ -26,6 +26,8 @@ Credits/docker.com.svg?raw=true)](https://docker.com/)
 [![image](
 Credits/nginx.org.svg?raw=true)](https://nginx.org/)  
 [![image](
+Credits/go.dev.svg?raw=true)](https://go.dev/)  
+[![image](
 Credits/nodejs.org.svg?raw=true)](https://nodejs.org/)  
 [![image](
 Credits/npmjs.com.svg?raw=true)](https://npmjs.com/)  
