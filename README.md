@@ -8,6 +8,8 @@ Credits
 [![image](
 Credits/cloud.google.com.svg?raw=true)](https://cloud.google.com/)  
 [![image](
+Credits/cloud.google.com2.svg?raw=true)](https://cloud.google.com/)  
+[![image](
 Credits/kubernetes.io.svg?raw=true)](https://kubernetes.io/)  
 [![image](
 Credits/minikube.sigs.k8s.io.svg?raw=true)](https://minikube.sigs.k8s.io/)  
