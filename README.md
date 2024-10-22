@@ -6,7 +6,7 @@ GCP
 Credits
 -------
 [![image](
-Credits/cloud.google.com.svg?raw=true)](https://cloud.google.com/)  
+Credits/cloud.google.com1.svg?raw=true)](https://cloud.google.com/)  
 [![image](
 Credits/kubernetes.io.svg?raw=true)](https://kubernetes.io/)  
 [![image](
