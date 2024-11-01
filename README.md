@@ -8,6 +8,10 @@ Credits
 [![image](
 Credits/cloud.google.com.svg)](https://cloud.google.com/)  
 [![image](
+Credits/debian.org.svg)](https://debian.org/)  
+[![image](
+Credits/chromebook.com.svg)](https://chromebook.com/)  
+[![image](
 Credits/kubernetes.io.svg)](https://kubernetes.io/)  
 [![image](
 Credits/minikube.sigs.k8s.io.svg)](https://minikube.sigs.k8s.io/)  
