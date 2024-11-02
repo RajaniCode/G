@@ -10,7 +10,11 @@ Credits/cloud.google.com.svg)](https://cloud.google.com/)
 [![image](
 Credits/debian.org.svg)](https://debian.org/)  
 [![image](
+Credits/lxde.org.svg)](https://lxde.org/)  
+[![image](
 Credits/chromebook.com.svg)](https://chromebook.com/)  
+[![image](
+Credits/chromium.org.svg)](https://chromium.org/)  
 [![image](
 Credits/kubernetes.io.svg)](https://kubernetes.io/)  
 [![image](
