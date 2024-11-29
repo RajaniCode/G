@@ -52,6 +52,10 @@ Credits/terraform.io.svg)](https://terraform.io/)
 [![image](
 Credits/hashicorp.com.svg)](https://hashicorp.com/)  
 [![image](
+Credits/agilealliance.org.svg)](https://agilealliance.org/)  
+[![image](
+Credits/scrumalliance.org.svg)](https://scrumalliance.org/)  
+[![image](
 Credits/atlassian.com.svg)](https://atlassian.com/)  
 [![image](
 Credits/broadcom.com.svg)](https://broadcom.com/)  
