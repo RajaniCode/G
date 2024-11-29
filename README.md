@@ -52,6 +52,10 @@ Credits/terraform.io.svg)](https://terraform.io/)
 [![image](
 Credits/hashicorp.com.svg)](https://hashicorp.com/)  
 [![image](
+Credits/atlassian.com.svg)](https://atlassian.com/)  
+[![image](
+Credits/broadcom.com.svg)](https://broadcom.com/)  
+[![image](
 Credits/yaml.io.svg)](https://yaml.io/)  
 [![image](
 Credits/cncf.io.svg)](https://cncf.io/)  
