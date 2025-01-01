@@ -16,6 +16,8 @@ Credits/chromebook.com.svg)](https://chromebook.com/)
 [![image](
 Credits/chromium.org.svg)](https://chromium.org/)  
 [![image](
+Credits/developer.chrome.com.svg)](https://developer.chrome.com/)  
+[![image](
 Credits/kubernetes.io.svg)](https://kubernetes.io/)  
 [![image](
 Credits/minikube.sigs.k8s.io.svg)](https://minikube.sigs.k8s.io/)  
