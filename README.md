@@ -71,6 +71,8 @@ Credits/app.diagrams.net.svg)](https://app.diagrams.net/)
 [![image](
 Credits/drawio.com.svg)](https://drawio.com/)-->  
 [![image](
+Credits/Go-static-code-analysis-rules.sonarsource.com.svg)](https://rules.sonarsource.com/go/)  
+[![image](
 Credits/Kubernetes-static-code-analysis-rules.sonarsource.com.svg)](https://rules.sonarsource.com/kubernetes/)  
 [![image](
 Credits/Docker-static-code-analysis-rules.sonarsource.com.svg)](https://rules.sonarsource.com/docker/)
