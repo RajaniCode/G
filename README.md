@@ -73,9 +73,7 @@ Credits/cncf.io.svg)](https://cncf.io/)
 Credits/owasp.org.svg)](https://owasp.org/)<!--[![image](
 Credits/app.diagrams.net.svg)](https://app.diagrams.net/)  
 [![image](
-Credits/drawio.com.svg)](https://drawio.com/)-->  
-[![image](
-Credits/Go-static-code-analysis-rules.sonarsource.com.svg)](https://rules.sonarsource.com/go/)  
+Credits/drawio.com.svg)](https://drawio.com/)-->   
 [![image](
 Credits/Kubernetes-static-code-analysis-rules.sonarsource.com.svg)](https://rules.sonarsource.com/kubernetes/)  
 [![image](
