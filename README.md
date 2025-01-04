@@ -10,7 +10,7 @@ Credits/cloud.google.com.svg)](https://cloud.google.com/)
 [![image](
 Credits/opensource.google.svg)](https://opensource.google/)  
 [![image](
-Credits/code.google.com.svg)](https://code.google.com/) 
+Credits/code.google.com.svg)](https://code.google.com/)  
 [![image](
 Credits/debian.org.svg)](https://debian.org/)  
 [![image](
