@@ -8,6 +8,8 @@ Credits
 [![image](
 Credits/cloud.google.com.svg)](https://cloud.google.com/)  
 [![image](
+Credits/developers.google.com.svg)](https://developers.google.com/)  
+[![image](
 Credits/opensource.google.svg)](https://opensource.google/)  
 [![image](
 Credits/code.google.com.svg)](https://code.google.com/)  
