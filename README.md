@@ -60,6 +60,10 @@ Credits/terraform.io.svg)](https://terraform.io/)
 [![image](
 Credits/hashicorp.com.svg)](https://hashicorp.com/)  
 [![image](
+Credits/ansible.com.svg)](https://ansible.com/)  
+[![image](
+Credits/jupyter.org.svg)](https://jupyter.org/)  
+[![image](
 Credits/agilealliance.org.svg)](https://agilealliance.org/)  
 [![image](
 Credits/scrumalliance.org.svg)](https://scrumalliance.org/)  
