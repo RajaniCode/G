@@ -6,9 +6,9 @@ DevOps
 Credits
 -------
 [![image](
-Credits/docs.gitlab.com.svg)](https://docs.gitlab.com/)  
-[![image](
 Credits/gitlab.com.svg)](https://gitlab.com/)  
+[![image](
+Credits/docs.gitlab.com.svg)](https://docs.gitlab.com/)  
 [![image](
 Credits/bitbucket.org.svg)](https://bitbucket.org/)  
 [![image](
