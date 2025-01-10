@@ -8,6 +8,8 @@ Credits
 [![image](
 Credits/kubernetes.io.svg)](https://kubernetes.io/)  
 [![image](
+Credits/cloud.google.com.svg)](https://cloud.google.com/)  
+[![image](
 Credits/minikube.sigs.k8s.io.svg)](https://minikube.sigs.k8s.io/)  
 [![image](
 Credits/k3s.io.svg)](https://k3s.io/)  
@@ -71,6 +73,9 @@ Credits/Beats-elastic.co.svg)](https://elastic.co/beats/)
 Credits/Logstash-elastic.co.svg)](https://elastic.co/logstash/)   
 [![image](
 Credits/yaml.io.svg)](https://yaml.io/)  
+[![image](
+Credits/jupyter.org.svg)](https://jupyter.org/)<!--[![image](
+Credits/JupyterHub-jupyter.org.svg)](https://jupyter.org/hub)-->  
 [![image](
 Credits/owasp.org.svg)](https://owasp.org/)  
 [![image](
