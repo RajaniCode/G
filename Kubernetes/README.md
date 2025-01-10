@@ -14,7 +14,7 @@ Credits/Amazon-Elastic-Kubernetes-Service-aws.amazon.com.svg)](https://aws.amazo
 [![image](
 Credits/Azure-Kubernetes-Service-azure.microsoft.com.svg)](https://azure.microsoft.com/products/kubernetes-service/)  
 [![image](
-Credits/Kubernetes-on-Azure-azure.microsoft.com.svg)](https://azure.microsoft.com/)](https://azure.microsoft.com/solutions/kubernetes-on-azure/)  
+Credits/Kubernetes-on-Azure-azure.microsoft.com.svg)](https://azure.microsoft.com/solutions/kubernetes-on-azure/)  
 [![image](
 Credits/minikube.sigs.k8s.io.svg)](https://minikube.sigs.k8s.io/)  
 [![image](
