@@ -52,7 +52,7 @@ Credits/terraform.io.svg)](https://terraform.io/)
 [![image](
 Credits/hashicorp.com.svg)](https://hashicorp.com/)   
 [![image](
-Credits/cncf.io.svg)](https://cncf.io/))<!--[![image](
+Credits/cncf.io.svg)](https://cncf.io/)<!--[![image](
 Credits/app.diagrams.net.svg)](https://app.diagrams.net/)  
 [![image](
 Credits/drawio.com.svg)](https://drawio.com/)-->
