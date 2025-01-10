@@ -10,6 +10,8 @@ Credits/cloud.google.com.svg)](https://cloud.google.com/)
 [![image](
 Credits/developers.google.com.svg)](https://developers.google.com/)  
 [![image](
+Credits/codelabs.developers.google.com.svg)](https://codelabs.developers.google.com/)  
+[![image](
 Credits/opensource.google.svg)](https://opensource.google/)  
 [![image](
 Credits/code.google.com.svg)](https://code.google.com/)  
@@ -25,18 +27,6 @@ Credits/chromium.org.svg)](https://chromium.org/)
 Credits/developer.chrome.com.svg)](https://developer.chrome.com/)  
 [![image](
 Credits/kubernetes.io.svg)](https://kubernetes.io/)  
-[![image](
-Credits/minikube.sigs.k8s.io.svg)](https://minikube.sigs.k8s.io/)  
-[![image](
-Credits/k3s.io.svg)](https://k3s.io/)  
-[![image](
-Credits/microk8s.io.svg)](https://microk8s.io/)  
-[![image](
-Credits/linuxcontainers.org.svg)](https://linuxcontainers.org/)  
-[![image](
-Credits/ubuntu.com.svg)](https://ubuntu.com/)  
-[![image](
-Credits/multipass.run.svg)](https://multipass.run/)  
 [![image](
 Credits/docker.com.svg)](https://docker.com/)  
 [![image](
@@ -79,8 +69,4 @@ Credits/cncf.io.svg)](https://cncf.io/)
 Credits/owasp.org.svg)](https://owasp.org/)<!--[![image](
 Credits/app.diagrams.net.svg)](https://app.diagrams.net/)  
 [![image](
-Credits/drawio.com.svg)](https://drawio.com/)-->   
-[![image](
-Credits/Kubernetes-static-code-analysis-rules.sonarsource.com.svg)](https://rules.sonarsource.com/kubernetes/)  
-[![image](
-Credits/Docker-static-code-analysis-rules.sonarsource.com.svg)](https://rules.sonarsource.com/docker/)
+Credits/drawio.com.svg)](https://drawio.com/)-->
