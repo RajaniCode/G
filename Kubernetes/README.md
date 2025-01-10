@@ -8,7 +8,13 @@ Credits
 [![image](
 Credits/kubernetes.io.svg)](https://kubernetes.io/)  
 [![image](
-Credits/cloud.google.com.svg)](https://cloud.google.com/)  
+Credits/Google-Kubernetes-Engine-cloud.google.com.svg)](https://cloud.google.com/kubernetes-engine/)  
+[![image](
+Credits/Amazon-Elastic-Kubernetes-Service-aws.amazon.com.svg)](https://aws.amazon.com/eks/)  
+[![image](
+Credits/Azure-Kubernetes-Service-azure.microsoft.com.svg)](https://azure.microsoft.com/products/kubernetes-service/)  
+[![image](
+Credits/Kubernetes-on-Azure-azure.microsoft.com.svg)](https://azure.microsoft.com/)](https://azure.microsoft.com/solutions/kubernetes-on-azure/)  
 [![image](
 Credits/minikube.sigs.k8s.io.svg)](https://minikube.sigs.k8s.io/)  
 [![image](
