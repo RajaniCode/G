@@ -18,9 +18,12 @@ Credits/bitbucket.org.svg)](https://bitbucket.org/)
 [![image](
 Credits/atlassian.com.svg)](https://atlassian.com/)  
 [![image](
+Credits/puppet.com.svg)](https://puppet.com/)  
+[![image](
+Credits/chef.io.svg)](https://chef.io/)  
+[![image](
 Credits/agilealliance.org.svg)](https://agilealliance.org/)  
 [![image](
 Credits/scrumalliance.org.svg)](https://scrumalliance.org/)  
 [![image](
 Credits/broadcom.com.svg)](https://broadcom.com/)
-
