@@ -6,6 +6,10 @@ DevOps
 Credits
 -------
 [![image](
+Credits/jenkins.io.svg)](https://jenkins.io.com/)  
+[![image](
+Credits/travis-ci.com.svg)](https://travis-ci.com/)  
+[![image](
 Credits/gitlab.com.svg)](https://gitlab.com/)  
 [![image](
 Credits/docs.gitlab.com.svg)](https://docs.gitlab.com/)  
@@ -17,8 +21,6 @@ Credits/atlassian.com.svg)](https://atlassian.com/)
 Credits/agilealliance.org.svg)](https://agilealliance.org/)  
 [![image](
 Credits/scrumalliance.org.svg)](https://scrumalliance.org/)  
-[![image](
-Credits/broadcom.com.svg)](https://broadcom.com/)  
 [![image](
 Credits/broadcom.com.svg)](https://broadcom.com/)
 
