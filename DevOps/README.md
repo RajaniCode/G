@@ -6,7 +6,7 @@ DevOps
 Credits
 -------
 [![image](
-Credits/jenkins.io.svg)](https://jenkins.io.com/)  
+Credits/jenkins.io.svg)](https://jenkins.io/)  
 [![image](
 Credits/travis-ci.com.svg)](https://travis-ci.com/)  
 [![image](
