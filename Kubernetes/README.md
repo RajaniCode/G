@@ -30,7 +30,7 @@ Credits/registry.terraform.io.svg)](https://registry.terraform.io/)
 [![image](
 Credits/hashicorp.com.svg)](https://hashicorp.com/)  
 ([![image](
-Credits/developer.hashicorp.com)](https://developer.hashicorp.com/)  
+Credits/developer.hashicorp.com.svg)](https://developer.hashicorp.com/)  
 [![image](
 Credits/ansible.com.svg)](https://ansible.com/)<!--(https://redhat.com/ansible/)-->  
 ([![image](
@@ -60,13 +60,13 @@ Credits/elastic.co.svg)](https://elastic.co/)
 [![image](
 Credits/Elasticsearch-elastic.co.svg)](https://elastic.co/elasticsearch/)  
 [![image](
-Credits/Elastic-Stack/-elastic.co.svg)](https://elastic.co/elastic-stack/)  
+Credits/Elastic-Stack-elastic.co.svg)](https://elastic.co/elastic-stack/)  
 [![image](
 Credits/Kibana-elastic.co.svg)](https://elastic.co/kibana/)  
 [![image](
 Credits/Beats-elastic.co.svg)](https://elastic.co/beats/)  
 [![image](
-Credits/Logstash-elastic.co.svg)](https://elastic.co/logstash/) 
+Credits/Logstash-elastic.co.svg)](https://elastic.co/logstash/)   
 [![image](
 Credits/yaml.io.svg)](https://yaml.io/)  
 [![image](
