@@ -16,6 +16,8 @@ Credits/opensource.google.svg)](https://opensource.google/)
 [![image](
 Credits/code.google.com.svg)](https://code.google.com/)  
 [![image](
+Credits/sre.google.svg)](https://sre.google/)  
+[![image](
 Credits/debian.org.svg)](https://debian.org/)  
 [![image](
 Credits/lxde.org.svg)](https://lxde.org/)  
