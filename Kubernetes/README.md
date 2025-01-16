@@ -97,6 +97,6 @@ Credits/owasp.org.svg)](https://owasp.org/)
 [![image](
 Credits/docs.docker.com.svg)](https://docs.docker.com/)  
 [![image](
-Credits/Docker-static-code-analysis-rules.sonarsource.com.svg)](https://rules.sonarsource.com/docker/) 
+Credits/Docker-static-code-analysis-rules.sonarsource.com.svg)](https://rules.sonarsource.com/docker/)  
 [![image](
 Credits/Kubernetes-static-code-analysis-rules.sonarsource.com.svg)](https://rules.sonarsource.com/kubernetes/)
