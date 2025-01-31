@@ -1,5 +1,5 @@
-GCP
----
+Google Cloud
+------------
 
 - Google Cloud
 
