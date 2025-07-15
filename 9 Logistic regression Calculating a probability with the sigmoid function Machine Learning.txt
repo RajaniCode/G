@@ -1,0 +1,51 @@
+A logistic regression model with three features has the following bias and weights
+
+b = 1
+
+w1 = 2
+
+w2 = -1
+
+w3 = 5
+
+Given the following input values
+
+x1 = 0
+
+x2 = 10
+
+x3 = 2
+
+1. What is the value of z for these input values?
+
+2. What is the logistic regression prediction for these input values?
+
+
+Answer
+1. The value of  z is 1.
+[
+The linear equation defined by the weights and bias is z = 1 + 2x1 – x2 + 5x3. Plugging the input values into the equation produces z = 1 + (2)(0) - (10) + (5)(2) = 1
+]
+
+2. The logistic regression prediction is approximately 0.731.
+[
+As calculated in #1 above, the log-odds for the input values is 1. Plugging that value for z into the sigmoid function
+y = 1 / (1 + (e ^ - z)) = 1 / (1 + (e ^ - 1)) = 1 / (1 + 0.367) = 1 / (1.367) = 0.7315289
+]
+
+NB
+1. Compute the linear combination z using the formula
+z = b + w1x1 + w2x2 + w3x3
+
+Given
+b = 1
+w1 = 2, w2 = -1, w3 = 5
+x1 = 0, x2 = 10, x3 = 2
+
+Plug in
+z = 1 + (2 * 0) + (-1 * 10) + (5 * 2) = 1 + 0 - 10 + 10 = 1
+
+2. Compute the logistic (sigmoid) prediction
+y = sigma(z) = 1 / (1 + (e ^ - z))
+with z = 1, this becomes
+y = 1 / (1 + (e ^ - 1)) = 0.73105858
