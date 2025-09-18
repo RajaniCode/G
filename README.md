@@ -8,6 +8,8 @@ Credits
 [![image](
 Credits/cloud.google.com.svg)](https://cloud.google.com/)  
 [![image](
+Credits/marketplace-cloud.google.com.svg)](https://cloud.google.com/marketplace/)  
+[![image](
 Credits/developers.google.com.svg)](https://developers.google.com/)  
 [![image](
 Credits/codelabs.developers.google.com.svg)](https://codelabs.developers.google.com/)  
@@ -24,7 +26,7 @@ Credits/lxde.org.svg)](https://lxde.org/)
 [![image](
 Credits/ubuntu.com.svg)](https://ubuntu.com/)  
 [![image](
-Credits/chromebook.com.svg)](https://chromebook.com/)  
+Credits/chromeos.google.svg)](https://chromeos.google/)  
 [![image](
 Credits/chromium.org.svg)](https://chromium.org/)  
 [![image](
@@ -48,7 +50,9 @@ Credits/ibm.com.svg)](https://ibm.com/)
 [![image](
 Credits/docs.nginx.com.svg)](https://docs.nginx.com/)   
 [![image](
-Credits/cncf.io.svg)](https://cncf.io/)<!--[![image](
+Credits/cncf.io.svg)](https://cncf.io/)  
+[![image](
+Credits/notebooklm.google.svg)](https://notebooklm.google/)<!--[![image](
 Credits/app.diagrams.net.svg)](https://app.diagrams.net/)  
 [![image](
 Credits/drawio.com.svg)](https://drawio.com/)-->
